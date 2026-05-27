@@ -357,7 +357,7 @@ body {
     .hero,
     .about-container,
     .contact-container{
-        flex-direction:column;
+        flex-direction:column !important;
         text-align:center;
     }
 
